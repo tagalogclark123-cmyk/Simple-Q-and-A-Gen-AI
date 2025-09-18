@@ -1,1 +1,0 @@
-# Simple-Q-and-A-Gen-AI
